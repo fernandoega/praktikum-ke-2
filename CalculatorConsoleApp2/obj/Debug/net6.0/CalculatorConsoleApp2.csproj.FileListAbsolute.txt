@@ -1,0 +1,15 @@
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\bin\Debug\net6.0\CalculatorConsoleApp2.exe
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\bin\Debug\net6.0\CalculatorConsoleApp2.deps.json
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\bin\Debug\net6.0\CalculatorConsoleApp2.runtimeconfig.json
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\bin\Debug\net6.0\CalculatorConsoleApp2.dll
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\bin\Debug\net6.0\CalculatorConsoleApp2.pdb
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.csproj.AssemblyReference.cache
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.AssemblyInfoInputs.cache
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.AssemblyInfo.cs
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.csproj.CoreCompileInputs.cache
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.dll
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\refint\CalculatorConsoleApp2.dll
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.pdb
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\CalculatorConsoleApp2.genruntimeconfig.cache
+D:\nando\CalculatorConsoleApp2\CalculatorConsoleApp2\obj\Debug\net6.0\ref\CalculatorConsoleApp2.dll
